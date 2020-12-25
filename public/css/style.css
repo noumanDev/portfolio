@@ -2,21 +2,10 @@ body{
     background-color: rgba(232,232,232,1);
 }
 
-.title{
-    /* margin-top:20px; */
-}
+
 .border-thick{
     border-width:20px !important;
 
-}
-
-.about .bio{
-    /* display: flex; */
-}
-
-.about .bio .content{
-    /* display: flex; */
-    /* width: 80%; */
 }
 
 .about .bio img{
